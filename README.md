@@ -30,7 +30,7 @@ Sklonuj to repozytorium. Otwórz je w edytorze kodu źródłowego. W terminalu w
 Otwórz drugi terminal, a następnie wpisz poniższe komendy:
 
 `cd server` - przejście do folderu server<br>
-`npm install` - instalacja paczki node_modules w folderze server<br>
+`npm install` - instalacja paczki node_modules w folderze server<br> 
 `node server.js` - uruchomienie pliku server.js <br><br>
 
 Po wykonaniu wszystkich powyższych instrukcji server z formularzem powinien odpalić się samoistnie. W innym przypadku należy wpisać w przeglądarkę adres <br>`localhost:3000`<br>
