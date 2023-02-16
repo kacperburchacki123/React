@@ -8,3 +8,9 @@ Ten projekt jest aktualnie w fazie rozwoju. Formularz zbiera od użytkownika dan
 
 <img src="image1.png" align="center" alt="zdjęcie podklądowe formularza" />
 
+# Instrukcja instalacji i konfuguracji:
+
+Aby wystartować projekt będziesz potrzebował zainstalowanych na twoim komputerze danych programów:
+NodeJS:  <a href="https://nodejs.org/en/download/">https://nodejs.org/en/download/</a>
+
+
