@@ -15,8 +15,11 @@ Aby wystartować projekt będziesz potrzebował zainstalowanych na twoim kompute
 NodeJS:  <a href="https://nodejs.org/en/download/">https://nodejs.org/en/download/</a> <br>
 XAMPP:  <a href="https://www.apachefriends.org/pl/index.html">https://www.apachefriends.org/pl/index.html</a> <br>
 
-W panelu XAMPP włącz moduł MySQL oraz Apache:
-<img src="image2.png" align="center" alt="zdjęcie podklądowe panelu XAMPP">
+W panelu XAMPP włącz moduł MySQL oraz Apache:<br>
+<img src="image2.png" align="center" alt="zdjęcie podklądowe panelu XAMPP"><br>
+
+Następnie utwórz bazę danych w o nazwię "users" oraz zaimportuj plik user.sql z folderu `react-form`
+
 ### Dalsza konfiguracja
 Sklonuj to repozytorium. Otwórz je w edytorze kodu źródłowego. W terminalu wpisz kolejno komendy:
 
