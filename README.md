@@ -18,7 +18,7 @@ XAMPP:  <a href="https://www.apachefriends.org/pl/index.html">https://www.apache
 W panelu XAMPP włącz moduł MySQL oraz Apache:<br>
 <img src="image2.png" align="center" alt="zdjęcie podklądowe panelu XAMPP"><br>
 
-Następnie utwórz bazę danych w o nazwię "users" oraz zaimportuj plik user.sql z folderu `react-form`
+Następnie utwórz bazę danych w o nazwię "users" oraz zaimportuj plik user.sql z folderu `react-form`.
 
 ### Dalsza konfiguracja
 Sklonuj to repozytorium. Otwórz je w edytorze kodu źródłowego. W terminalu wpisz kolejno komendy:
@@ -31,9 +31,9 @@ Otwórz drugi terminal, a następnie wpisz poniższe komendy:
 
 `cd server` - przejście do folderu server<br>
 `npm install` - instalacja paczki node_modules w folderze server<br>
-`node server.js` - uruchomienie pliku server.js <br>
+`node server.js` - uruchomienie pliku server.js <br><br>
 
+Po wykonaniu wszystkich powyższych instrukcji server z formularzem powinien odpalić się samoistnie. W innym przypadku należy wpisać w przeglądarkę adres`localhost:3000`<br>
 
-
-
+# Działanie formularza
 
