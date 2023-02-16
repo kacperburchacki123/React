@@ -33,7 +33,13 @@ Otwórz drugi terminal, a następnie wpisz poniższe komendy:
 `npm install` - instalacja paczki node_modules w folderze server<br>
 `node server.js` - uruchomienie pliku server.js <br><br>
 
-Po wykonaniu wszystkich powyższych instrukcji server z formularzem powinien odpalić się samoistnie. W innym przypadku należy wpisać w przeglądarkę adres`localhost:3000`<br>
+Po wykonaniu wszystkich powyższych instrukcji server z formularzem powinien odpalić się samoistnie. W innym przypadku należy wpisać w przeglądarkę adres <br>`localhost:3000`<br>
 
 # Działanie formularza
 
+W formularz wpisujemy dane: adres e-mail, imię oraz numer telefonu. Po wpisaniu danych klikamy na przycisk `Submit` - następuje wysłanie wpisanych informacji do bazy danych. <br><br>
+<br><img src="image3.png" align="center"/> <br>
+<br><img src="image4.png" align="center"/> <br>
+<br><img src="image5.png" align="center"/> <br>
+<br><img src="image6.png" align="center"/> <br>
+<br><img src="image7.png" align="center"/> <br>
