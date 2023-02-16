@@ -21,6 +21,14 @@ Sklonuj to repozytorium. Otwórz je w edytorze kodu źródłowego. W terminalu w
 
 `cd my-app` - przejście do folderu my-app <br>
 `npm install` - zainstalowanie paczki node_modules <br>
+`npm start` - uruchomienie servera
+
+Otwórz drugi terminal, a następnie wpisz poniższe komendy:
+
+`cd server` - przejście do folderu server
+`npm install` - instalacja paczki node_modules w folderze server
+`node server.js` - uruchomienie pliku server.js 
+
 
 
 
