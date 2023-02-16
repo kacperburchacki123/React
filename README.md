@@ -10,7 +10,7 @@ Ten projekt jest aktualnie w fazie rozwoju. Formularz zbiera od użytkownika dan
 
 # Instrukcja instalacji i konfuguracji:
 
-Aby wystartować projekt będziesz potrzebował zainstalowanych na twoim komputerze danych programów: <br>
-NodeJS:  <a href="https://nodejs.org/en/download/">https://nodejs.org/en/download/</a>
-
+Aby wystartować projekt będziesz potrzebował zainstalowanych na twoim komputerze danych programów: <br><br>
+NodeJS:  <a href="https://nodejs.org/en/download/">https://nodejs.org/en/download/</a> <br>
+Xampp <a href="https://www.apachefriends.org/pl/index.html">https://www.apachefriends.org/pl/index.html</a> <br>
 
